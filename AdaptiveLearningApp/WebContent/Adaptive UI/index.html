@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    <link rel="shortcut icon" href="img/favicon.png">
+
+    <title></title>
+    
+    <!--StyleSheets-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.css" rel="stylesheet">
+    <link href="css/index.css" rel="stylesheet">
+  <script src="js/index.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	
+</head>
+  <body class="index-page" onload="survey()"> 
+    <div class="container">
+      <form class="login-form">  
+         <div id="question1">      
+            <p class ="Question" id="que1"></p>
+              <input type="radio" name="Q1rating" value="1"> 1
+              <input type="radio" name="Q1rating" value="2"> 2
+              <input type="radio" name="Q1rating" value="3"> 3
+              <input type="radio" name="Q1rating" value="4"> 4   
+              <button class="btn btn-primary btn-lg btn-block" type="submit" value="Submit" onclick="SubmitForm('Q1rating')">Next</button>
+          </div>
+        </form>
+
+    </div>
+	<div>
+		
+	</div>
+  </body>
+</html>
