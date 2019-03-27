@@ -10,6 +10,7 @@ public class Constants {
 	public static String enrollSolnFile="WebContent\\textFiles\\InitialEnrollSolution.txt";
 	public static String userLevelFile="WebContent\\textFiles\\UserLevelList.txt";
 	public static String contentFile="WebContent\\textFiles\\content.json";
+	public static String lastFiveFile="WebContent\\textFiles\\lastFive.txt";
 	public static String userLevel1= "LEVEL1";
 	public static String userLevel2= "LEVEL2";
 	public static String userLevel3= "LEVEL3";

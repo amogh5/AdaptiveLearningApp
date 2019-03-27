@@ -1,120 +1,141 @@
-
-  [
+[
     {
-      "topic": "arithmetic",
-      "contents": [
+      "topicString": "Addition",
+      "levels": [
         {
-          "tutorial": [
-            "tutorial 01",
-            "tutorial 02",
-            "tutorial 03"
+          "levelNumber": 1,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 01",
-            "example 02",
-            "example 03"
-          ],
-          "test": [
-            "test 01",
-            "test 02",
-            "test 03"
-          ],
-          "level": 1
+          "answer": 10
         },
         {
-          "tutorial": [
-            "tutorial 11",
-            "tutorial 12",
-            "tutorial 13"
+          "levelNumber": 2,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 11",
-            "example 12",
-            "example 13"
-          ],
-          "test": [
-            "test 11",
-            "test 12",
-            "test 13"
-          ],
-          "level": 2
+          "answer": 10
         },
         {
-          "tutorial": [
-            "tutorial 21",
-            "tutorial 22",
-            "tutorial 23"
+          "levelNumber": 3,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 21",
-            "example 22",
-            "example 23"
+          "answer": 10
+        },
+        {
+          "levelNumber": 4,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "test": [
-            "test 21",
-            "test 22",
-            "test 23"
+          "answer": 10
+        },
+        {
+          "levelNumber": 5,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "level": 3
+          "answer": 10
         }
       ]
     },
     {
-      "topic": "algebra",
-      "contents": [
+      "topicString": "Subtraction",
+      "levels": [
         {
-          "tutorial": [
-            "tutorial 01",
-            "tutorial 02",
-            "tutorial 03"
+          "levelNumber": 1,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 01",
-            "example 02",
-            "example 03"
-          ],
-          "test": [
-            "test 01",
-            "test 02",
-            "test 03"
-          ],
-          "level": 1
+          "answer": 10
         },
         {
-          "tutorial": [
-            "tutorial 11",
-            "tutorial 12",
-            "tutorial 13"
+          "levelNumber": 2,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 11",
-            "example 12",
-            "example 13"
-          ],
-          "test": [
-            "test 11",
-            "test 12",
-            "test 13"
-          ],
-          "level": 2
+          "answer": 10
         },
         {
-          "tutorial": [
-            "tutorial 21",
-            "tutorial 22",
-            "tutorial 23"
+          "levelNumber": 3,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "example": [
-            "example 21",
-            "example 22",
-            "example 23"
+          "answer": 10
+        },
+        {
+          "levelNumber": 4,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "test": [
-            "test 21",
-            "test 22",
-            "test 23"
+          "answer": 10
+        },
+        {
+          "levelNumber": 5,
+          "description": "Add a+b",
+          "example": "5+7 = 12",
+          "quiz": "Add 4+6",
+          "options": [
+            10,
+            15,
+            7,
+            9
           ],
-          "level": 3
+          "answer": 10
         }
       ]
     }

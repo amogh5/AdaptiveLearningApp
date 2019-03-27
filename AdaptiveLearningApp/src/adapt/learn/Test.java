@@ -7,7 +7,8 @@ public class Test {
 
 //		InitialAppHandler.fetchEnrollmentQuestions("1");
 //		DataHandler.parseFromJSON();
-		DataHandler.sendData(1, "arithmetic");
+//		DataHandler.sendData("Addition");
+		DataHandler.isAnswerCorrect(1);
 	}
 
 }
